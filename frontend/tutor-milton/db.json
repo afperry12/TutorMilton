@@ -1,0 +1,98 @@
+{
+  "subjects": [
+    {
+      "id": 1,
+      "subjectText": "Math"
+    },
+    {
+      "id": 2,
+      "subjectText": "English"
+    },
+    {
+      "id": 3,
+      "subjectText": "Biology"
+    },
+    {
+      "subjectText": "History",
+      "id": 4
+    },
+    {
+      "subjectText": "dsfsdf",
+      "id": 5
+    },
+    {
+      "subjectText": "sdfsdf",
+      "id": 6
+    },
+    {
+      "subjectText": "sadasd",
+      "id": 7
+    },
+    {
+      "subjectText": "ASad",
+      "id": 8
+    }
+  ],
+  "frees": [
+    {
+      "id": 1,
+      "freeText": "Wednesday 1st"
+    },
+    {
+      "id": 2,
+      "freeText": "Friday 3rd"
+    },
+    {
+      "id": 3,
+      "freeText": "Thursday 2nd"
+    },
+    {
+      "freeText": "asdsa",
+      "id": 4
+    },
+    {
+      "freeText": "sasd",
+      "id": 5
+    }
+  ],
+  "tutees": [
+    {
+      "id": 1,
+      "class": "SP2",
+      "name": "John Doe",
+      "time": "Wednesday, 2nd Period"
+    },
+    {
+      "id": 2,
+      "class": "L2H",
+      "name": "Mary Sue",
+      "time": "Monday, 2nd Period"
+    },
+    {
+      "id": 3,
+      "class": "R5",
+      "name": "Other Name",
+      "time": "Friday, 1st Period"
+    }
+  ],
+  "sessions":[
+    {
+      "id": 1,
+      "class": "SP2",
+      "name": "John Doe",
+      "time": "Wednesday, 2nd Period"
+    },
+    {
+      "id": 2,
+      "class": "L2H",
+      "name": "Mary Sue",
+      "time": "Monday, 2nd Period"
+    },
+    {
+      "id": 3,
+      "class": "R5",
+      "name": "Other Name",
+      "time": "Friday, 1st Period"
+    }
+  ]
+}
